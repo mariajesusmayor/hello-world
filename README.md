@@ -17,4 +17,5 @@ El mejor. Extremadamente sencillo. Git para torpes: https://desarrolloweb.com/ma
 
 Un poco técnico, pero no está mal, con muchos ejemplos: https://git-scm.com/book/es/v1/Empezando
 
+Sobre resolución de conflictos: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/
 
